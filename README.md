@@ -1,2 +1,2 @@
 # c4cs-f17-rpn
-https://travis-ci.org/hangould/c4cs-f17-rpn.svg?branch=master
+![travis build](https://img.shields.io/travis/hangould/c4cs-f17-rpn.svg)

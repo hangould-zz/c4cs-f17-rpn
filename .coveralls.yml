@@ -1,0 +1,3 @@
+service_name: travis
+repo_token: v4YX2UUWRxCl6LZRLeBarI1FvJVQDHdI2
+parallel: true
