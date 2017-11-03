@@ -3,6 +3,7 @@
     - 3.5
   install:
   - pip install -r requirements.txt
+  - pip3 install colored --upgrade
   script:
     - py.test
     - coverage run test_rpn.py
